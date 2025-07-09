@@ -52,7 +52,6 @@ Ensure you have the following installed on your local machine:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/umesh2407/Street-Tadka.git
 cd Street-Tadka
 ```
 
